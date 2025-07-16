@@ -8,7 +8,7 @@ The dataset used throughout the project includes six young healthy subjects who 
 
 The dataset was obtained from the UC Irvine Machine Learning Repository, Weight Lifting Exercises monitored with Inertial Measurement Units: https://archive.ics.uci.edu/dataset/273/weight+lifting+exercises+monitored+with+inertial+measurement+units
 
-- **`ADS-503-Final-Team-Project.qmd`**  
+- **`ADS-504FinalProj.ipynb`**  
   The complete analysis and report are presented in Jupyter Notebook format, utilizing Google Colab as the IDE. This file includes:
   - Problem Definition
   - Exploratory data analysis (EDA)
