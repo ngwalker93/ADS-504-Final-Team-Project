@@ -20,6 +20,12 @@ The dataset was obtained from the UC Irvine Machine Learning Repository, Weight 
 
 ## 🔍 Project Highlights
 
+- Compare Classification Models: (Decision Tree, Linear Modeling, Ensemble Modeling, Support Vector Machines, Neural Networks)
+- Unsupervised Learning: (KMeans)
+- Perfromance Metrics: (Macro f1, ROC-AUC, Confidence Intervals) 
+
 
 ## 📌 Objective
+
+The purpose of this project is to classify biceps curl exercise variations using wearable sensor data collected from accelerometers, gyroscopes, and magnetometers placed on a participant’s belt, forearm, arm, and dumbbell using the application of machine learning and programing techniques. 
 
